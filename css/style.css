@@ -9,8 +9,8 @@ html, body {
 
 body{
     color: white;
-    background: rgb(217,11,217);
-    background: linear-gradient(180deg, rgba(217,11,217,1) 0%, rgba(108,9,103,1) 100%);
+    background: rgb(162,0,255);
+    background: linear-gradient(180deg, rgba(162,0,255,1) 0%, rgba(184,0,175,1) 100%);
     font-family: 'Raleway', sans-serif;
 }
 
@@ -64,8 +64,9 @@ h2{
     display: block;
     border-radius: 4px;
     text-decoration: none;
-    color: rgb(217,11,217);
+    color: rgb(162,0,255);
     font-weight: bold;
+    box-shadow: 0px 0px 20px white;
 }
 
 .links-list li a span{
